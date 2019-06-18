@@ -1,6 +1,6 @@
 {
-  "author": "",
-  "description": "",
+  "author": "Eym",
+  "description": "Eym client library for node.js",
   "license": "ISC",
   "main": "index.js",
   "name": "eym",
